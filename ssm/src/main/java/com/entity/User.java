@@ -1,5 +1,6 @@
 package com.entity;
 
+
 public class User {
 	private String name;  //姓名
 	private String password;  //密码
